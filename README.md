@@ -1,1 +1,1 @@
-# favourite.com
+# favourite.github.io
